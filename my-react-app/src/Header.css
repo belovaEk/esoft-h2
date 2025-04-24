@@ -1,0 +1,12 @@
+.header_container {
+    position: relative;
+    text-align: center;
+    padding-top: 30px;
+    height: 100px;
+    width: 80%;
+    background-color: #4e6455;
+    color: #ffff;
+    font-size: 20px;
+    border-radius: 15px;
+    margin-top: 20px;
+}
